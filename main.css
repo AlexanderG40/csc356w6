@@ -1,0 +1,9 @@
+/* styles the whole entire page */
+body{
+    background-color: cadetblue;
+    color: darkorange;
+}
+/* styles the h1 */
+h1{
+    color: blue;
+}
